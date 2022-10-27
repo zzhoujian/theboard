@@ -10,7 +10,7 @@
 html,
 body {
     width: 100%;
-    height: 100%;
+    height: 95%;
     box-sizing: border-box;
     padding: 0px;
     margin: 0px;

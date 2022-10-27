@@ -2,10 +2,7 @@
   <div class="home">
     <Header msg="Welcome to Your Vue.js App"/>
     <Aside id="aside"></Aside>
-    <el-button type="primary">主要按钮</el-button>
   </div>
-
-  
 </template>
 
 <script>
@@ -22,8 +19,8 @@ export default {
 }
 </script>
 <style scoped>
-  #aside {
-    float: left;
-  }
+#aside {
+  float: left;
+}
 </style>
 
