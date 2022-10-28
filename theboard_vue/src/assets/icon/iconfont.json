@@ -6,6 +6,97 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "7594407",
+      "name": "24gl-square",
+      "font_class": "24gl-square",
+      "unicode": "ea98",
+      "unicode_decimal": 60056
+    },
+    {
+      "icon_id": "7594477",
+      "name": "24gf-square",
+      "font_class": "24gf-square",
+      "unicode": "eaa2",
+      "unicode_decimal": 60066
+    },
+    {
+      "icon_id": "1126",
+      "name": "文件夹",
+      "font_class": "wenjianjia",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "755616",
+      "name": "直线",
+      "font_class": "line",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "1726185",
+      "name": "83-小虚线",
+      "font_class": "-xiaoxuxian",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "4511985",
+      "name": "导出图片",
+      "font_class": "daochutupian",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "5387381",
+      "name": "导出",
+      "font_class": "daochu",
+      "unicode": "eabf",
+      "unicode_decimal": 60095
+    },
+    {
+      "icon_id": "7639355",
+      "name": "实心正方形",
+      "font_class": "shixinzhengfangxing",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "15952269",
+      "name": "虚线",
+      "font_class": "xuxian",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "22383051",
+      "name": "填充符号",
+      "font_class": "tianchongfuhao",
+      "unicode": "edd6",
+      "unicode_decimal": 60886
+    },
+    {
+      "icon_id": "26525862",
+      "name": "直线",
+      "font_class": "line1",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "26525863",
+      "name": "直线",
+      "font_class": "line-fill",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "31523351",
+      "name": "多人",
+      "font_class": "duoren",
+      "unicode": "e83a",
+      "unicode_decimal": 59450
+    },
+    {
       "icon_id": "1130",
       "name": "锁定",
       "font_class": "suoding",

@@ -20,7 +20,6 @@ export default {
 </script>
 <style scoped>
 #aside {
-  float: left;
 }
 </style>
 

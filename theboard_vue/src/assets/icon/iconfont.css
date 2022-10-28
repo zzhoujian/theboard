@@ -1,8 +1,8 @@
 @font-face {
   font-family: "element-icons"; /* Project id 3734360 */
-  src: url('iconfont.woff2?t=1666890406333') format('woff2'),
-       url('iconfont.woff?t=1666890406333') format('woff'),
-       url('iconfont.ttf?t=1666890406333') format('truetype');
+  src: url('iconfont.woff2?t=1666964055000') format('woff2'),
+       url('iconfont.woff?t=1666964055000') format('woff'),
+       url('iconfont.ttf?t=1666964055000') format('truetype');
 }
 
 .element-icons {
@@ -11,6 +11,58 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.el-icon-24gl-square:before {
+  content: "\ea98";
+}
+
+.el-icon-24gf-square:before {
+  content: "\eaa2";
+}
+
+.el-icon-wenjianjia:before {
+  content: "\e603";
+}
+
+.el-icon-line:before {
+  content: "\e653";
+}
+
+.el-icon--xiaoxuxian:before {
+  content: "\e640";
+}
+
+.el-icon-daochutupian:before {
+  content: "\e647";
+}
+
+.el-icon-daochu:before {
+  content: "\eabf";
+}
+
+.el-icon-shixinzhengfangxing:before {
+  content: "\e606";
+}
+
+.el-icon-xuxian:before {
+  content: "\e616";
+}
+
+.el-icon-tianchongfuhao:before {
+  content: "\edd6";
+}
+
+.el-icon-line1:before {
+  content: "\e6bb";
+}
+
+.el-icon-line-fill:before {
+  content: "\e6bc";
+}
+
+.el-icon-duoren:before {
+  content: "\e83a";
 }
 
 .el-icon-suoding:before {
