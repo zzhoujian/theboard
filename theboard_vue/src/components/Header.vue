@@ -44,14 +44,14 @@ export default {
       }
     },
     changeStatus(id) {
-      let index = 0;
+      const arr = ['pointer', 'square', 'lozenge', 'circle', 'arrow', 'line', 'pen', 'font'];
+      const targetButton = arr[id];
       for (let key in this.tools) {
-        if (index === id) {
+        if (key === targetButton) {
           this.tools[key][1] = 'primary';
         } else {
           this.tools[key][1] = 'text';
         }
-        index++;
       }
       this.tools = Object.assign({}, this.tools)
     }
